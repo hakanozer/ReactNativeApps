@@ -1,0 +1,14 @@
+{
+  "expo": {
+  "name": "XcodeAndstd", 
+  "sdkVersion": "25.0.0", 
+  "icon": "./logo.png", 
+  "description": "Basic app", 
+  "version": "1.0.1", 
+  "orientation": "portrait", 
+  "ios": {
+    "bundleIdentifier": "com.calisma.yeniapp" },
+  "android": {
+    "package": "com.calisma.yeniapp"
+  } }
+  }

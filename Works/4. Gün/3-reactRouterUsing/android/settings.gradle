@@ -1,0 +1,3 @@
+rootProject.name = 'topBar'
+
+include ':app'

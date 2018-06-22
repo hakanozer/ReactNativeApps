@@ -1,0 +1,3 @@
+rootProject.name = 'modelUsing'
+
+include ':app'
